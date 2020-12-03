@@ -10,11 +10,10 @@ Sorry I didnt really have much time, this app is quick and dirty because:
 
 It does not really implement image upload, does not have any validation
 
-It does not really handle exceptions.
-
-It does not really care what the API answers
-It does not use Vuex store
-Its not documented
+It does not really handle exceptions.  
+It does not really care what the API answers  
+It does not use Vuex store  
+Its not documented  
 Sometimes it just uses Promise<any>
 It does not really hande authentification and does not use navigation guards
 
